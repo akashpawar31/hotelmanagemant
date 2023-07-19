@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author akkip
+ *
+ */
+module HotelManagement {
+}
